@@ -1,0 +1,6 @@
+# Files and folders to ignore in the dicom backup from lcni storage to sanlab dropbox
+smoking/**
+MAP/**
+pace_applied_training_dup/**
+meditation_pace_potentialduplicate/**
+.DS_Store
